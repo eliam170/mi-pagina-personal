@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(213, 250, 238);
+    
+
+}
+a {
+    color: rgb(29, 2, 2);
+    border: 3px rgb(44, 44, 1) solid;
+    background-color: aquamarine;
+}
